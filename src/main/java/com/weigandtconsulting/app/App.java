@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Changed 2nd line" );
-        System.out.println( "3d line" );
+        System.out.println( "3d line WTF" );
     }
 }

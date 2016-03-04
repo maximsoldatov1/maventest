@@ -8,14 +8,12 @@
   <name>testapp</name>
   <url>http://maven.apache.org</url>
 
-<!-- 
   <repositories>
     <repository>
       <id>local-nexus-repo</id>
       <url>http://192.168.254.163:8081/nexus/content/repositories/central</url>
     </repository>
   </repositories>
--->
 
   <dependencies>
     <dependency>
@@ -25,13 +23,11 @@
       <scope>test</scope>
     </dependency>
 
-<!--
   <dependency>
     <groupId>log4j</groupId>
     <artifactId>log4j</artifactId>
-    <version>1.2.16</version>
+    <version>1.2.17</version>
   </dependency>
--->
 
   </dependencies>
 
